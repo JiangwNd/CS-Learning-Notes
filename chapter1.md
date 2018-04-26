@@ -16,11 +16,7 @@
 
 [jenkins在windows下的安装 - CSDN博客](https://blog.csdn.net/RonnyJiang/article/details/51208009)
 
-[Directory listing for /pts/](http://172.16.53.107:8000/pts/)
-
 [Index of /](https://updates.jenkins.io/)
-
-[localhost](http://localhost:8080/)
 
 [安装jenkins插件的两种方法-不二兔-51CTO博客](http://blog.51cto.com/buertu/1393028)
 
@@ -253,8 +249,6 @@
 [Python3--文件读取、写入、追加及seek\(\)方法的使用 - CSDN博客](https://blog.csdn.net/m0_37422217/article/details/77035323)
 
 [Python文件I/O \|菜鸟教程](http://www.runoob.com/python/python-files-io.html)
-
-[书签](chrome://bookmarks/)
 
 **20180427**
 
