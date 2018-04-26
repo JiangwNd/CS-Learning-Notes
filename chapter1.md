@@ -1,81 +1,5 @@
 # C++ dev reference link
 
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:宋体;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:SimSun;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
-@font-face  
-	{font-family:宋体;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:SimSun;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
-@font-face  
-	{font-family:Calibri;  
-	panose-1:2 15 5 2 2 2 4 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-520092929 1073786111 9 0 415 0;}  
-@font-face  
-	{font-family:"\@宋体";  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:11.0pt;  
-	font-family:"Calibri","sans-serif";  
-	mso-ascii-font-family:Calibri;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:宋体;  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:Calibri;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-font-kerning:1.0pt;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-family:"Calibri","sans-serif";  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page WordSection1  
-	{size:595.3pt 841.9pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:42.55pt;  
-	mso-footer-margin:49.6pt;  
-	mso-paper-source:0;  
-	layout-grid:15.6pt;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
-
-
 **20180425**
 
 [Chrome默认下载器那么难用怎么办？ -知乎](https://www.zhihu.com/question/21463614)
@@ -102,7 +26,7 @@ div.WordSection1
 
 [开机时自动运行批处理 - CSDN博客](https://blog.csdn.net/zhouyong0/article/details/6323586)
 
-[vc判断相对路径绝对路径 - Google搜索](https://www.google.com.tw/search?q=vc+%E5%88%A4%E6%96%AD+%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84+%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84&ei=2ajWWp2JE4Kn0gSbmYSICw&start=10&sa=N&biw=1366&bih=662)
+[vc判断相对路径绝对路径 - Google搜索](https://www.google.com.tw/search?q=vc+判断+相对路径+绝对路径&ei=2ajWWp2JE4Kn0gSbmYSICw&start=10&sa=N&biw=1366&bih=662)
 
 [45.VC\(custom\)-相对路径和绝对路径相到转换 - CSDN博客](http://www.txtlxg.com/228/hgy413/article/details/7816123)
 
@@ -120,7 +44,7 @@ div.WordSection1
 
 [PathResolve function \(Windows\)](https://msdn.microsoft.com/zh-cn/library/windows/desktop/bb776478%28v=vs.85%29.aspx)
 
-[CSTRING PWSTR转换 - Google搜索](https://www.google.com.tw/search?ei=XrLWWuCaOsa70gTh-5CAAg&q=CSTRING+PWSTR+%E8%BD%AC%E6%8D%A2&oq=CSTRING+PWSTR+%E8%BD%AC%E6%8D%A2&gs_l=psy-ab.3...47044.47044.0.48365.1.1.0.0.0.0.166.166.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.MWYfPkvBXqM)
+[CSTRING PWSTR转换 - Google搜索](https://www.google.com.tw/search?ei=XrLWWuCaOsa70gTh-5CAAg&q=CSTRING+PWSTR+转换&oq=CSTRING+PWSTR+转换&gs_l=psy-ab.3...47044.47044.0.48365.1.1.0.0.0.0.166.166.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.MWYfPkvBXqM)
 
 [VS字符串类型及转换 -天缘博客](http://www.metsky.com/archives/782.html)
 
@@ -158,7 +82,7 @@ div.WordSection1
 
 [PathResolve function \(Windows\)](https://msdn.microsoft.com/zh-cn/library/windows/desktop/bb776478%28v=vs.85%29.aspx)
 
-[PWSTR用法 - Google搜索](https://www.google.com.tw/search?q=PWSTR+%E7%94%A8%E6%B3%95&nfpr=1&ei=EbTWWtySM4al0gSWgY_YAw&start=10&sa=N&biw=1366&bih=662)
+[PWSTR用法 - Google搜索](https://www.google.com.tw/search?q=PWSTR+用法&nfpr=1&ei=EbTWWtySM4al0gSWgY_YAw&start=10&sa=N&biw=1366&bih=662)
 
 [Windows字符串详解及转换-日常总结-51CTO博客](http://blog.51cto.com/liangqiu/1338637)
 
@@ -172,7 +96,7 @@ div.WordSection1
 
 [PSTR、LPSTR、PCSTR、LPCSTR、LPWSTR、PWSTR、PCWSTR、LPCWSTR、LPCTSTR - c-string - ItBoth](http://www.itboth.com/d/AfE7Fr/pstr-lpstr-pcstr-lpcstr-lpwstr-pwstr-pcwstr-lpcwstr-lpctstr)
 
-[wchar\_t赋值 - Google搜索](https://www.google.com.tw/search?q=wchar_t+%E8%B5%8B%E5%80%BC&oq=wchar_t+%E8%B5%8B%E5%80%BC&aqs=chrome..69i57.8712j0j7&sourceid=chrome&ie=UTF-8)
+[wchar\_t赋值 - Google搜索](https://www.google.com.tw/search?q=wchar_t+赋值&oq=wchar_t+赋值&aqs=chrome..69i57.8712j0j7&sourceid=chrome&ie=UTF-8)
 
 [字节码问题--wchar和char的区别以及wchar和char之间的相互转换字符编码转换等方法及函数介绍 - Michael Owen -博客园](http://www.cnblogs.com/MichaelOwen/articles/2128771.html)
 
@@ -186,19 +110,19 @@ div.WordSection1
 
 [char、 wchar\_t、 char16\_t、 char32\_t \| Microsoft Docs](https://docs.microsoft.com/zh-cn/cpp/cpp/char-wchar-t-char16-t-char32-t)
 
-[getfullpath用法头文件 - Google搜索](https://www.google.com.tw/search?ei=WbnWWuKBD4Gz0ASkp5HYAQ&q=getfullpath+%E7%94%A8%E6%B3%95+%E5%A4%B4%E6%96%87%E4%BB%B6&oq=getfullpath+%E7%94%A8%E6%B3%95+%E5%A4%B4%E6%96%87%E4%BB%B6&gs_l=psy-ab.3...150622.154397.0.155149.19.18.0.0.0.0.333.2320.0j11j2j1.14.0....0...1c.1j4.64.psy-ab..6.3.426...33i160k1.0.KJbLoWSZMok)
+[getfullpath用法头文件 - Google搜索](https://www.google.com.tw/search?ei=WbnWWuKBD4Gz0ASkp5HYAQ&q=getfullpath+用法+头文件&oq=getfullpath+用法+头文件&gs_l=psy-ab.3...150622.154397.0.155149.19.18.0.0.0.0.333.2320.0j11j2j1.14.0....0...1c.1j4.64.psy-ab..6.3.426...33i160k1.0.KJbLoWSZMok)
 
 [Path Class \(System.IO\)](https://msdn.microsoft.com/en-us/library/system.io.path%28v=vs.110%29.aspx)
 
 [一个关于GetFullPath的处理问题-CSDN论坛](https://bbs.csdn.net/topics/320029714)
 
-[.NET Framework Class Library头文件 - Google搜索](https://www.google.com.tw/search?ei=S7rWWoioNsfE0gSH1riYBw&q=.NET+Framework+Class+Library+%E5%A4%B4%E6%96%87%E4%BB%B6&oq=.NET+Framework+Class+Library+%E5%A4%B4%E6%96%87%E4%BB%B6&gs_l=psy-ab.3...28188.33090.0.33843.12.12.0.0.0.0.187.1304.0j9.9.0....0...1c.1j4.64.psy-ab..3.3.465...0i19k1j0i8i30i19k1j33i160k1.0.LVoBwjWmD6c)
+[.NET Framework Class Library头文件 - Google搜索](https://www.google.com.tw/search?ei=S7rWWoioNsfE0gSH1riYBw&q=.NET+Framework+Class+Library+头文件&oq=.NET+Framework+Class+Library+头文件&gs_l=psy-ab.3...28188.33090.0.33843.12.12.0.0.0.0.187.1304.0j9.9.0....0...1c.1j4.64.psy-ab..3.3.465...0i19k1j0i8i30i19k1j33i160k1.0.LVoBwjWmD6c)
 
 [.NET Framework类库 \(\)](https://msdn.microsoft.com/zh-cn/library/gg145045%28v=vs.110%29.aspx)
 
 [Visual C++类库](https://msdn.microsoft.com/zh-cn/library/52cs05fz%28v=vs.110%29.aspx)
 
-[win32 api判断绝对路径- Google搜索](https://www.google.com.tw/search?q=win32+api+%E5%88%A4%E6%96%AD+%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84&oq=win32+api+%E5%88%A4%E6%96%AD+%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84&aqs=chrome..69i57.9911j0j7&sourceid=chrome&ie=UTF-8)
+[win32 api判断绝对路径- Google搜索](https://www.google.com.tw/search?q=win32+api+判断+绝对路径&oq=win32+api+判断+绝对路径&aqs=chrome..69i57.9911j0j7&sourceid=chrome&ie=UTF-8)
 
 [\[Win32\]路径操作API函数 - CSDN博客](https://blog.csdn.net/u012741077/article/details/50636712)
 
@@ -206,7 +130,7 @@ div.WordSection1
 
 [Shlobj.h - Google搜索](https://www.google.com.tw/search?q=Shlobj.h&oq=Shlobj.h&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 
-[LPCWSTR”转换为“LPCWSTR \[\] - Google搜索](https://www.google.com.tw/search?biw=1366&bih=662&ei=Ad3WWoPEIcO80gT9q7moBg&q=LPCWSTR%E2%80%9D%E8%BD%AC%E6%8D%A2%E4%B8%BA%E2%80%9CLPCWSTR+%5B%5D&oq=LPCWSTR%E2%80%9D%E8%BD%AC%E6%8D%A2%E4%B8%BA%E2%80%9CLPCWSTR+%5B%5D&gs_l=psy-ab.3...221679.221679.0.223821.1.1.0.0.0.0.194.194.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.QsZpFqWIYF4)
+[LPCWSTR”转换为“LPCWSTR \[\] - Google搜索](https://www.google.com.tw/search?biw=1366&bih=662&ei=Ad3WWoPEIcO80gT9q7moBg&q=LPCWSTR”转换为“LPCWSTR+[]&oq=LPCWSTR”转换为“LPCWSTR+[]&gs_l=psy-ab.3...221679.221679.0.223821.1.1.0.0.0.0.194.194.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.QsZpFqWIYF4)
 
 [\[收集\]ANSI字符与Unicode字符的互相转换 -程序园](http://www.voidcn.com/article/p-blnbbwqq-bmh.html)
 
@@ -232,7 +156,7 @@ div.WordSection1
 
 [vc PathResolve - Google搜索](https://www.google.com.tw/search?q=vc+PathResolve&ei=yt7WWqb6I4S40AT4qIqoDw&start=10&sa=N&biw=1366&bih=662)
 
-[vc判断绝对路径 - Google搜索](https://www.google.com.tw/search?biw=1366&bih=662&ei=6ajWWp_cHcem0gTy2bvYCQ&q=vc+%E5%88%A4%E6%96%AD+%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84&oq=vc+%E5%88%A4%E6%96%AD+%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84&gs_l=psy-ab.3...13971900.13971900.0.13972327.1.1.0.0.0.0.132.132.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.WRUMMreBBGs)
+[vc判断绝对路径 - Google搜索](https://www.google.com.tw/search?biw=1366&bih=662&ei=6ajWWp_cHcem0gTy2bvYCQ&q=vc+判断+绝对路径&oq=vc+判断+绝对路径&gs_l=psy-ab.3...13971900.13971900.0.13972327.1.1.0.0.0.0.132.132.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.WRUMMreBBGs)
 
 [windows路径操作API函数 -天下 - C++博客](http://www.cppblog.com/aaxron/archive/2015/12/11/173495.html)
 
@@ -276,7 +200,7 @@ div.WordSection1
 
 [开机时自动运行批处理 - CSDN博客](https://blog.csdn.net/zhouyong0/article/details/6323586)
 
-[jenkins注册服务删除 - Google搜索](https://www.google.com.tw/search?ei=-_TWWvn4I4vO0ASVrYcY&q=jenkins+%E6%B3%A8%E5%86%8C%E6%9C%8D%E5%8A%A1+%E5%88%A0%E9%99%A4&oq=jenkins+%E6%B3%A8%E5%86%8C%E6%9C%8D%E5%8A%A1+%E5%88%A0%E9%99%A4&gs_l=psy-ab.3...1915022.1930101.0.1930850.37.28.7.0.0.0.276.3281.0j19j3.22.0....0...1c.1j4.64.psy-ab..8.4.666...0j0i67k1j0i12k1j0i30k1.0.8sSX3RASLOg)
+[jenkins注册服务删除 - Google搜索](https://www.google.com.tw/search?ei=-_TWWvn4I4vO0ASVrYcY&q=jenkins+注册服务+删除&oq=jenkins+注册服务+删除&gs_l=psy-ab.3...1915022.1930101.0.1930850.37.28.7.0.0.0.276.3281.0j19j3.22.0....0...1c.1j4.64.psy-ab..8.4.666...0j0i67k1j0i12k1j0i30k1.0.8sSX3RASLOg)
 
 [Jenkins卸载方法（Windows/Linux/MacOS）- EasonJim -博客园](https://www.cnblogs.com/EasonJim/p/6277708.html)
 
@@ -284,7 +208,7 @@ div.WordSection1
 
 [Windows jenkins环境搭建 -简书](https://www.jianshu.com/p/3d32909a7303)
 
-[Installing Jenkins as a Windows service - Jenkins - Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Installing%20Jenkins%20as%20a%20Windows%20service)
+[Installing Jenkins as a Windows service - Jenkins - Jenkins Wiki](https://wiki.jenkins.io/display/JENKINS/Installing Jenkins as a Windows service)
 
 [通过 Windows系统服务管理自动启动程序 \|水景一页](https://cnzhx.net/blog/win-services-auto-start-programmes/)
 
@@ -300,7 +224,7 @@ div.WordSection1
 
 [Keil C51的命令行调用 - CSDN博客](https://blog.csdn.net/hb2008hahaha/article/details/7604667)
 
-[jenkins Windows服务 bat不能正常执行 - Google搜索](https://www.google.com.tw/search?q=jenkins+Windows+%E6%9C%8D%E5%8A%A1+bat+%E4%B8%8D%E8%83%BD%E6%AD%A3%E5%B8%B8+%E6%89%A7%E8%A1%8C&oq=jenkins+Windows+%E6%9C%8D%E5%8A%A1+bat+%E4%B8%8D%E8%83%BD%E6%AD%A3%E5%B8%B8+%E6%89%A7%E8%A1%8C&aqs=chrome..69i57.36799j0j7&sourceid=chrome&ie=UTF-8)
+[jenkins Windows服务 bat不能正常执行 - Google搜索](https://www.google.com.tw/search?q=jenkins+Windows+服务+bat+不能正常+执行&oq=jenkins+Windows+服务+bat+不能正常+执行&aqs=chrome..69i57.36799j0j7&sourceid=chrome&ie=UTF-8)
 
 [jenkins运行selenium测试不显示浏览器解决方法 -程序园](http://www.voidcn.com/article/p-kyannnpd-se.html)
 
@@ -324,7 +248,7 @@ div.WordSection1
 
 [【python】获取目录下的最新文件夹/文件 -抓虫使者 -博客园](https://www.cnblogs.com/pipihaoke/p/8034395.html)
 
-[python追加文件 - Google搜索](https://www.google.com.tw/search?q=python+%E8%BF%BD%E5%8A%A0+%E6%96%87%E4%BB%B6&oq=python+%E8%BF%BD%E5%8A%A0+%E6%96%87%E4%BB%B6&aqs=chrome..69i57j0l5.15164j1j7&sourceid=chrome&ie=UTF-8)
+[python追加文件 - Google搜索](https://www.google.com.tw/search?q=python+追加+文件&oq=python+追加+文件&aqs=chrome..69i57j0l5.15164j1j7&sourceid=chrome&ie=UTF-8)
 
 [Python3--文件读取、写入、追加及seek\(\)方法的使用 - CSDN博客](https://blog.csdn.net/m0_37422217/article/details/77035323)
 
@@ -371,6 +295,4 @@ div.WordSection1
 [分析 C++命令行参数 \| Microsoft Docs](https://docs.microsoft.com/zh-cn/cpp/cpp/parsing-cpp-command-line-arguments)
 
 [c++程序输入参数 - CSDN博客](https://blog.csdn.net/lujiandong1/article/details/49474783)
-
-
 
