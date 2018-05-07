@@ -442,7 +442,7 @@
 
 [subprocess run 不显示输出 - Google搜索](https://www.google.com.tw/search?q=subprocess+run+%E4%B8%8D%E6%98%BE%E7%A4%BA+%E8%BE%93%E5%87%BA&oq=subprocess+&aqs=chrome.0.69i59j69i60l2j69i59j69i57j69i61.5797j0j7&sourceid=chrome&ie=UTF-8)
 
-**20180507**
+**20180506**
 
 [Balboa\_PTS\_Sanity\_Test \#1 Console \[Jenkins\]](http://172.16.53.21:8080/job/Balboa_PTS_Sanity_Test/1/console)
 
@@ -498,5 +498,47 @@
 
 [BLE\_System\_Test \[Jenkins\]](http://172.16.53.55:8080/job/BLE_System_Test/)
 
+**20180507**
 
+[Jenkins\_Build\_Test \[Jenkins\]](http://172.16.53.21:8080/job/Jenkins_Build_Test/)
+
+[TortoiseSVN revert slow - Google 搜索](https://www.google.com.tw/search?q=TortoiseSVN+revert+slow&ei=D8PvWsveL4HT0AScipeYBw&start=10&sa=N&biw=1366&bih=637)
+
+[如何優化調整 TortoiseSVN加快執行效能 \| demo小鋪](http://demo.tc/post/595)
+
+[magento – SVN / TortoiseSVN痛苦缓慢 -代码日志](https://codeday.me/bug/20170726/45224.html)
+
+[关于SVN更新慢的解决方法 - CSDN博客](https://blog.csdn.net/pizi0475/article/details/6441882)
+
+[magento - SVN/TortoiseSVN painfully slow - Stack Overflow](https://stackoverflow.com/questions/949492/svn-tortoisesvn-painfully-slow)
+
+[tortoisesvn - How can I speed up SVN updates? - Stack Overflow](https://stackoverflow.com/questions/65135/how-can-i-speed-up-svn-updates)
+
+[Undo Changes](https://tortoisesvn.net/docs/nightly/TortoiseSVN_en/tsvn-dug-revert.html)
+
+[Fix slow or freezing explorer after TortoiseSVN installation in Windows](http://www.thinkplexx.com/learn/howto/svn/tool/fix-slow-or-freezing-explorer-after-tortoisesvn-installation-in-windows)
+
+[TortoiseSVN Dev: Bug? TortoiseSVN getting very slow because of scanning and locking files in Recycler](https://svn.haxx.se/tsvn/archive-2008-11/0098.shtml)
+
+[SVN/TortoiseSVN painfully slow \[magento\] \| CODE Q&A \[English\]](https://code.i-harness.com/en/q/e7cf4)
+
+[jenkins svn revert slow - Google 搜索](https://www.google.com.tw/search?q=jenkins+svn+revert+slow&oq=jenkins+svn+revert+slow&aqs=chrome..69i57.10521j0j7&sourceid=chrome&ie=UTF-8)
+
+[windows - jenkins svn plugin revert action slower than command line job? - Stack Overflow](https://stackoverflow.com/questions/27371135/jenkins-svn-plugin-revert-action-slower-than-command-line-job)
+
+[\[JENKINS-26612\] svn: absolutely unacceptably SLOW - Jenkins JIRA](https://issues.jenkins-ci.org/browse/JENKINS-26612)
+
+[jenkins windows workspace 斜线 - Google搜索](https://www.google.com.tw/search?q=jenkins+windows+workspace+%E6%96%9C%E7%BA%BF&oq=jenkins+windows+workspace+%E6%96%9C%E7%BA%BF&aqs=chrome..69i57.10328j0j7&sourceid=chrome&ie=UTF-8)
+
+[jenkins - publish over ssh 学习+踩坑记 - CSDN博客](https://blog.csdn.net/du807110586/article/details/78844244)
+
+[bat 多级目录 - Google搜索](https://www.google.com.tw/search?q=bat+%E5%A4%9A%E7%BA%A7%E7%9B%AE%E5%BD%95&oq=bat+%E5%A4%9A%E7%BA%A7%E7%9B%AE%E5%BD%95&aqs=chrome..69i57.1586j0j7&sourceid=chrome&ie=UTF-8)
+
+[批处理创建多级目录 - BAT原创&转载 -批处理之家批处理\_BAT\_CMD\_DOS\_VBS\_Perl\_Python\_PowerShell - Powered by Discuz!](http://www.bathome.net/viewthread.php?tid=819)
+
+[BLE\_Test Config \[Jenkins\]](http://172.16.53.55:8080/job/BLE_Test/configure)
+
+[jenkins 周期性构建 - Google搜索](https://www.google.com.tw/search?q=jenkins+%E5%91%A8%E6%9C%9F%E6%80%A7+%E6%9E%84%E5%BB%BA&oq=jenkins+%E5%91%A8%E6%9C%9F%E6%80%A7+%E6%9E%84%E5%BB%BA&aqs=chrome..69i57.9339j0j4&sourceid=chrome&ie=UTF-8)
+
+[jenkins构建触发器定时任务Build periodically和Poll SCM【转载】 -小曺 -博客园](https://www.cnblogs.com/caoj/p/7815820.html)
 
