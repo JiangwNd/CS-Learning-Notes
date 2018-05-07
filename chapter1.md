@@ -254,6 +254,8 @@
 
 [Python 文件I/O \|菜鸟教程](http://www.runoob.com/python/python-files-io.html)
 
+[书签](chrome://bookmarks/)
+
 **20180427**
 
 [Balboa\_PTS\_Test \#8 Console \[Jenkins\]](http://localhost:8080/job/Balboa_PTS_Test/8/consoleFull)
@@ -439,6 +441,62 @@
 [调用另一个 python的子进程不产生输出\_python\_帮酷编程问答](https://ask.helplib.com/python/post_7168854)
 
 [subprocess run 不显示输出 - Google搜索](https://www.google.com.tw/search?q=subprocess+run+%E4%B8%8D%E6%98%BE%E7%A4%BA+%E8%BE%93%E5%87%BA&oq=subprocess+&aqs=chrome.0.69i59j69i60l2j69i59j69i57j69i61.5797j0j7&sourceid=chrome&ie=UTF-8)
+
+**20180507**
+
+[Balboa\_PTS\_Sanity\_Test \#1 Console \[Jenkins\]](http://172.16.53.21:8080/job/Balboa_PTS_Sanity_Test/1/console)
+
+[Balboa\_PTS\_Test \[Jenkins\]](http://172.16.53.21:8080/job/Balboa_PTS_Test/)
+
+[欢迎阅读《MDK的编译过程及文件类型全解》文档-by秉火 — FLASH 1.0文档](http://flash-rtd.readthedocs.io/zh_CN/latest/)
+
+[使用脚本（命令行）编译KEIL工程 - CSDN博客](https://blog.csdn.net/daoshuti/article/details/78212457)
+
+[µVision User's Guide: Command Line](http://www.keil.com/support/man/docs/uv4/uv4_commandline.htm)
+
+[uvision run debug command line - Google 搜索](https://www.google.com.tw/search?hl=zh-CN&biw=1366&bih=637&ei=ZHTuWsXmL4Wm0AS3rImYDw&q=uvision+run+debug+command+line&oq=uvision+run+debug+command+line&gs_l=psy-ab.3...139124.145715.0.145959.22.22.0.0.0.0.190.2611.0j19.19.0....0...1.1.64.psy-ab..3.13.1749...0i19k1j0i30i19k1j0i10i30i19k1j0i10i30k1j0i30k1j0i8i30k1j0i8i10i30k1j33i160k1.0.v9UkfiAzIEk)
+
+[Start uVision code execution automatically from command line?](http://www.onarm.com/forum/20406/)
+
+[µVision User's Guide: Debug](http://www.keil.com/support/man/docs/uv4/uv4_dg_debug.htm)
+
+[µVision User's Guide: Debug Menu and Commands](http://www.keil.com/support/man/docs/uv4/uv4_ui_debug.htm)
+
+[ARM Information Center](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.faqs/ka9769.html)
+
+[11053122112785.pdf](http://www.go-gddq.com/down/2011-05/11053122112785.pdf)
+
+[µVision User's Guide: Command Line](http://www.keil.com/support/man/docs/uv4/uv4_commandline.htm)
+
+[µVision User's Guide: Debug Commands](http://www.keil.com/support/man/docs/uv4/uv4_debug_commands.htm)
+
+[µVision User's Guide: Debug Functions](http://www.keil.com/support/man/docs/uv4/uv4_debug_functions.htm)
+
+[µVISION: BUILDING TARGETS FROM THE COMMAND LINE](http://www.keil.com/support/docs/868.htm)
+
+[µVISION DEBUGGER: RUNNING AUTOMATED TEST SESSIONS](http://www.keil.com/support/docs/1424.htm)
+
+[µVISION: CREATING A PROJECT BATCH FILE](http://www.keil.com/support/docs/2594.htm)
+
+[µVision User's Guide: Command Window](http://www.keil.com/support/man/docs/uv4/uv4_db_dbg_outputwin.htm)
+
+[5655nAppB12.fm](http://www.eas.uccs.edu/~mwickert/ece5655/lecture_notes/ARM/ece5655_appendixB.pdf)
+
+[µVision User's Guide: Debug Commands](http://www.keil.com/support/man/docs/uv4/uv4_debug_commands.htm)
+
+[µVision User's Guide: Batch Setup for Single and Multi-Projects](http://www.keil.com/support/man/docs/uv4/uv4_ca_batchbuildmultiprojectfile.htm)
+
+[µVision User's Guide: Build Target Example](http://www.keil.com/support/man/docs/uv4/uv4_cl_buildtarget.htm)
+
+[µVision User's Guide: Program Flash Example](http://www.keil.com/support/man/docs/uv4/uv4_cl_programflash.htm)
+
+[用Python复制文件的九种方法 \|程序师](http://www.techug.com/post/9-ways-copy-file-in-python.html)
+
+[python 中使用 shutil实现文件或目录的复制、删除、移动 — aloha.Mr.Tang](https://tangx.in/2016/11/24/python-libaray-shutil-shell-command-for-python/)
+
+[Python 文件I/O \|菜鸟教程](http://www.runoob.com/python/python-files-io.html)
+
+[BLE\_System\_Test \[Jenkins\]](http://172.16.53.55:8080/job/BLE_System_Test/)
 
 
 
