@@ -1,4 +1,4 @@
-转自: https://tangx.in/2016/11/24/python-libaray-shutil-shell-command-for-python/\#python-%E4%B8%AD%E4%BD%BF%E7%94%A8-shutil-%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E6%88%96%E7%9B%AE%E5%BD%95%E7%9A%84%E5%A4%8D%E5%88%B6%E5%88%A0%E9%99%A4%E7%A7%BB%E5%8A%A8
+转自: [https://tangx.in/2016/11/24/python-libaray-shutil-shell-command-for-python/](https://tangx.in/2016/11/24/python-libaray-shutil-shell-command-for-python/)
 
 [shutil 模块](https://docs.python.org/2/library/shutil.html#module-shutil) 提供了多个针对文件或文件集合的高等级操作。 尤其是，文件的复制和删除操作。 对于独立文件的操作， 参考 [os 模块](https://docs.python.org/2/library/os.html#module-os)
 
