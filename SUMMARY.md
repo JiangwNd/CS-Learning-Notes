@@ -8,4 +8,5 @@
 * [Ubuntu使用Jupyter Notebook](ubuntushi-yong-jupyter-notebook.md)
 * [Jenkins的xUnit解析错误与解决](jenkinsde-xunit-jie-xi-cuo-wu-yu-jie-jue.md)
 * [Jenkins的xUnit解析错误与解决02](jenkinsde-xunit-jie-xi-cuo-wu-yu-jie-jue-02.md)
+* [Jenkins提示反向代理设置有误](jenkinsti-shi-fan-xiang-dai-li-she-zhi-you-wu.md)
 
