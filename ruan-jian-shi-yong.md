@@ -25,8 +25,20 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode\command]
 @="\"D:\\Tools\\VSCode-win32-x64-1.30.2\\Code.exe\" \"%V\""
+```
+
+* ##### uBlock Origin
 
 ```
+! 3/1/2019 https://www.zhihu.com
+||pic*.zhimg.com/v*.*$image
+
+! 2019/4/24 https://www.zhihu.com
+www.zhihu.com##.AdblockBanner
+
+```
+
+* ##### 
 
 
 
