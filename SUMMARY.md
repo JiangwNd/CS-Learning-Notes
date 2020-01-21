@@ -12,4 +12,5 @@
 * [油猴脚本](you-hou-jiao-ben.md)
 * [Jira过滤器](jiraguo-lv-qi.md)
 * [软件使用](ruan-jian-shi-yong.md)
+* [比较三个数大小](bi-jiao-san-ge-shu-da-xiao.md)
 
